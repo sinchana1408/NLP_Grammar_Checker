@@ -1,4 +1,4 @@
-# AI Grammar & Spell Checker
+#  Spelling & Grammar Checker
 
 This project is a simple web application that checks and corrects grammar and spelling mistakes in a sentence. The user can enter a sentence with grammatical errors, and the system will return a corrected version of the text.
 
