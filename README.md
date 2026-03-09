@@ -24,9 +24,7 @@ The goal of this project is to demonstrate how Natural Language Processing can b
 - JavaScript
 
 ## Screenshots
-
-### Example Input and Output
-![Example Output](output.png)
+![AI Grammar Checker UI](screenshots/Screenshot 2026-03-09 165049.png)
 
 ## How to Run the Project
 
