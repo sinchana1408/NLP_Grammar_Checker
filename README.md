@@ -23,8 +23,8 @@ The goal of this project is to demonstrate how Natural Language Processing can b
 - CSS  
 - JavaScript
 
-## Screenshots
-![AI Grammar Checker UI](https://github.com/username/repository-name/blob/main/Screenshot%202026-03-09%20165049.png)
+### Screenshot
+![Screenshot](Screenshot%202026-03-09%20165049.png)
 
 ## How to Run the Project
 
