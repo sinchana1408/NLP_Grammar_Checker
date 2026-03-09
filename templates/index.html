@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>AI Grammar & Spell Checker</title>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="card">
+
+<h1>Spelling & Grammar Checker</h1>
+
+<p class="subtitle">
+Improve your writing instantly using Artificial Intelligence
+</p>
+
+<textarea
+id="inputText"
+placeholder="Type your sentence with grammar mistakes..."
+></textarea>
+
+<button onclick="checkText()">Correct Grammar</button>
+
+<div id="resultBox" class="result-box">
+
+<h3>Corrected Text</h3>
+
+<p id="output"></p>
+
+</div>
+
+</div>
+
+</div>
+
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+</body>
+
+</html>
